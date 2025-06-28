@@ -1,0 +1,15 @@
+{
+  "name": "backend_youtube",
+  "version": "1.0.0",
+  "description": "learning backend from chai aur code youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "yash saxena",
+  "license": "ISC"
+}
